@@ -1,1 +1,1 @@
-How to be up to date in git. A student from alx
+It is important to read me
